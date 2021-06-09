@@ -1,0 +1,25 @@
+﻿Pseudocode for index.html
+
+
+Create page head (top).
+        Set page title to “Home”.
+        Set page style.
+        Reference CSS file.
+
+
+Create page body (content).
+        Create header.
+                Display “Welcome to DroneRight NZ!”
+                         “Learn the rules around flying your drone in NZ”
+        
+        Create navigation menu.
+                Show navigation menu with site navigation options.
+                Define margins of menu.
+
+
+        Create main content section.
+                Populate with flight tracking link showing active flights.
+
+
+        Create footer section.
+                Assign contact info.
