@@ -1,0 +1,27 @@
+﻿Pseudocode for quizrules.html
+
+
+Create page head (top).
+        Set page title to “Rules Quiz”.
+        Set page style.
+        Reference CSS file.
+
+
+Create page body (content).
+        Create header.
+                Display: “Welcome to the Quiz on NZ Drone Rules!”
+                          “Test your knowledge on the NZ drone rules!”
+                
+
+
+        Create navigation menu.
+                Show navigation menu with site navigation options.
+                Define margins of menu.
+
+
+        Create main content section.
+                Populate with flight tracking link showing active flights.
+
+
+        Create footer section.
+                Assign contact info.
