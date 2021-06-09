@@ -1,0 +1,190 @@
+﻿ID        
+	WBS        
+	Task Name
+	Duration
+	Start        
+	Finish
+	Predecessors
+	Resource Names
+	1
+	1
+	Create Charter, Stakeholder list, Personal profile. 
+	1h
+	25/05
+	25/05
+	
+
+	Chris
+	2
+	1.1
+	Push Readme.md to git
+	1h
+	27/05
+	27/05
+	1
+	Chris
+	3
+	1.2
+	Create WBS
+	1h
+	31/05
+	31/05
+	
+
+	Chris
+	4
+	1.2.1
+	Update WBS
+	15min
+	31/05
+	31/05
+	3
+	Chris, Luke
+	5
+	1.3
+	Begin breakdown of code.
+	1h
+	01/06
+	01/06
+	
+
+	Chris
+	6
+	1.31
+	Pseudocode broken down code.
+	1h
+	02/06
+	02/06
+	5
+	Chris
+	7
+	1.32
+	Push first part of pseudocode and code to github
+	10min
+	03/06
+	03/06
+	6
+	Chris
+	8
+	1.33
+	Repeat top 3 steps until full deployment
+	10 days
+	04/06
+	14/06
+	5, 6, 7
+	Chris
+	9
+	1.4
+	Report to stakeholders following 1.33
+	15min
+	04/06
+	14/06
+	8
+	Luke
+	10
+	1.41
+	Evaluate stakeholder feedback and adjust code.
+	1h
+	04/06
+	14/06
+	9
+	Luke
+	11
+	1.5
+	Test and integrate code
+	1h
+	04/06
+	14/06
+	8, 9, 10
+	Chris
+	12
+	1.6
+	Deploy website
+	1h
+	15/06
+	15/06
+	11
+	Chris, Luke
+	13
+	1.6
+	Closure/review
+	1h
+	16/06
+	16/06
+	12
+	Chris, Luke
+	
+
+
+
+
+
+
+
+
+
+
+
+WBS
+Milestone 1: 1.0Planning 
+1.1 Stakeholder list
+1.2 Create Charter
+1.3 Risk register
+1.4 Resource
+
+
+Milestone 2.0:Design
+2.1 wireframe
+2.2 pseudocode
+2.3 erd
+
+
+Milestone 3 3.0 Implementation
+3.1 Front -end home page
+3.2 Mission Statement
+3.3 Rules
+3.4 Foreign Pilots
+3.5 Safety
+
+
+:
+Milestone 4: 4.0 Review
+4.1 Stakeholder review
+4.2 Test/integrate code
+
+
+
+
+
+
+Sprint 1: 
+Stakeholder list
+Pseudocode
+Homepage 
+Stakeholder review
+
+
+Sprint 2:
+Create Charter / evaluate review
+Wireframe
+Mission Statement
+Stakeholder review
+
+
+Sprint 3:
+Risk Register / evaluate review
+ERD
+Rules
+Stakeholder Review
+
+
+Sprint 4:
+Evaluate review
+Foreign Pilots
+Stakeholder review
+
+
+Sprint 5:
+Evaluate review
+Safety
+Stakeholder review
