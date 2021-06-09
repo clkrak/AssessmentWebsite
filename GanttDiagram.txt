@@ -1,0 +1,36 @@
+﻿https://mermaid-js.github.io/mermaid-live-editor
+
+
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Initiation
+    Product scope           :a1, 2021-05-25, 30d
+    Create Readme.md     :a1, 2021-05-25  , 1h
+    Push Readme.md to Git     :a1, 2021-05-27  , 1h
+
+
+
+
+    section Planning
+    Create WBS     :a1, 2021-05-31  , 1h
+    Update WBS     :a1, 2021-05-31  , 15 min
+
+
+    section Execution
+    Breakdown Code     :a1, 2021-06-01  , 1h
+    Add pseudocode     :a1, 2021-06-02  , 1h
+    Push to Git     :a1, 2021-06-03  , 1h
+    Evaluate with stakeholders     :a1, 2021-06-04  , 1h
+    Breakdown Code     :a1, 2021-06-05  , 1h
+    Add pseudocode     :a1, 2021-06-06  , 1h
+    Push to Git     :a1, 2021-06-07  , 1h
+    Evaluate with stakeholders     :a1, 2021-06-08  , 1h
+    Breakdown Code     :a1, 2021-06-09  , 1h
+    Add pseudocode     :a1, 2021-06-10  , 1h
+    Push to Git     :a1, 2021-06-11  , 1h
+    Evaluate with stakeholders     :a1, 2021-06-12  , 1h
+    Test and integrate code     :a1, 2021-06-13  , 5d
+    Deploy website     :a1, 2021-06-19  , 1d
+    section Project Closure
+    Closure and review     :a1, 2021-06-20  , 2d
