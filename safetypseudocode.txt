@@ -1,0 +1,27 @@
+﻿Pseudocode for safety.html
+
+
+Create page head (top).
+        Set page title to “Safety”.
+        Set page style.
+        Reference CSS file.
+
+
+Create page body (content).
+        Create header.
+                Display: “Welcome to the section covering safe practices!”
+                          “This area covers the safe drone operation within NZ and beyond!”
+                
+
+
+        Create navigation menu.
+                Show navigation menu with site navigation options.
+                Define margins of menu.
+
+
+        Create main content section.
+                Populate with flight tracking link showing active flights.
+
+
+        Create footer section.
+                Assign contact info.
