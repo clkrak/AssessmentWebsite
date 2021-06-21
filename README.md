@@ -48,7 +48,8 @@ __**List of Stakeholders**__
 **1.**  
 Stakeholder name: Jerry Garcia  
 Title: CFO		Role: Sponser  
-Power (H/L): H	Interest (H/L): L  
+Power (H/L): H  
+Interest (H/L): L  
 Requirements: Finish advertisement rollout by 6/06/2021  
 Communication: E-mail  
   
