@@ -9,6 +9,7 @@ Project Scope: World Wide
 Deliverables: Information, Classes, Videos  
 Risks and Issues: Technology and laws/rules can become outdated/change.  
 Assumptions/Dependencies: Web Traffic  
+  
 **Milestones Schedule**  
 Milestones-  
 Milestone 1: Increase Advertising Budget  
@@ -19,11 +20,13 @@ Target Date 2: 7/07/2021
 Actual Date-  
 Actual Date 1: 06/21/2021  
 Actual Date 2: 06/21/2021 
+  
 **Project Team**  
 Project Manager: Chris Krakauer  
 Technical Lead: Luke 
 Team members: Chris, Luke  
 **Approval/Review Committee**  
+  
 Sponsor: Drone Racing League  
 Business Division Head: Robert Paulson  
 Business Unit Head: Barry Bonds  
