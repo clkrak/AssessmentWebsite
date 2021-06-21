@@ -81,8 +81,7 @@ Power (H/L): L		Interest (H/L): L
 Requirements: 5% Revenue Increase
 Communication: Helicopter
 
-__**Risk Assessment**__
-
+__**Risk Assessment**__  
 Possible risks and constraints.
 There is the inevitable possiblity of project members
 facing outside constraints which could limit their ability
@@ -93,8 +92,7 @@ If we do face such a setback, we will assess the probablity of the
 project going over-budget and escaping the scope of the planning.
 We will use expert judgement and quality data in the assessments.
 
-__**Risk Assessment Update**__
-
+__**Risk Assessment Update**__  
 My project partner seems to have disappeared. Our productivity has dropped significantly,
 expert judgement says about 40%. We have had to limit the number of iterations under
 Agile Methodology, but will focus on quality of iterations and a working final product.
