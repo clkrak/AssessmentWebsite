@@ -90,6 +90,12 @@ If we do face such a setback, we will assess the probablity of the
 project going over-budget and escaping the scope of the planning.
 We will use expert judgement and quality data in the assessments.
 
+__**Risk Assessment Update**__
+
+My project partner seems to have disappeared. Our productivity has dropped significantly,
+expert judgement says about 40%. We have had to limit the number of iterations under
+Agile Methodology, but will focus on quality of iterations and a working final product.
+
 
 
 # ITPM5240-2020S1HB-coke-bottles-are-building-materials
