@@ -24,9 +24,9 @@ Actual Date 2: 06/21/2021
 **Project Team**  
 Project Manager: Chris Krakauer  
 Technical Lead: Luke 
-Team members: Chris, Luke  
-**Approval/Review Committee**  
+Team members: Chris, Luke 
   
+**Approval/Review Committee**  
 Sponsor: Drone Racing League  
 Business Division Head: Robert Paulson  
 Business Unit Head: Barry Bonds  
