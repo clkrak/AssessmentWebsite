@@ -62,7 +62,7 @@ Interest (H/L): >9k
 Requirements: Landline Telephone  
 Communication: Landline Telephone  
   
-**3.**
+**3.**  
 Stakeholder name: Christopher Walkin  
 Title: Angel  
 Investor Role: Angel  
