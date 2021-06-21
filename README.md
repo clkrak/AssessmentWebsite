@@ -1,14 +1,14 @@
-__**Project Charter**__
-Project Title: Drone Wiki
-Project Manager: Chris Krakauer
-Project Start Date: 03/05/2021
-Project End Date: 17/06/2021
-Project Sponsor: Drone Racing League
-Business Need: Distribution/Advertising
-Project Scope: World Wide
-Deliverables: Information, Classes, Videos
-Risks and Issues: Technology and laws/rules can become outdated/change.
-Assumptions/Dependencies: Web Traffic
+__**Project Charter**__  
+Project Title: Drone Wiki  
+Project Manager: Chris Krakauer  
+Project Start Date: 03/05/2021  
+Project End Date: 17/06/2021  
+Project Sponsor: Drone Racing League  
+Business Need: Distribution/Advertising  
+Project Scope: World Wide  
+Deliverables: Information, Classes, Videos  
+Risks and Issues: Technology and laws/rules can become outdated/change.  
+Assumptions/Dependencies: Web Traffic  
 **Milestones Schedule**  
 Milestones-  
 Milestone 1: Increase Advertising Budget  
