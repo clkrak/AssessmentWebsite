@@ -1,0 +1,27 @@
+﻿Pseudocode for quizsafety.html
+UPDATE
+
+Create page head (top).
+        Set page title to “Safety Quiz”.
+        Set page style.
+        Reference CSS file.
+
+
+Create page body (content).
+        Create header.
+                Display: “Welcome to the Safety Quiz!”
+                          “Test your knowledge on drone safety!”
+                
+
+
+        Create navigation menu.
+                Show navigation menu with site navigation options.
+                Define margins of menu.
+
+
+        Create main content section.
+                Populate with flight tracking link showing active flights.
+
+
+        Create footer section.
+                Assign contact info.

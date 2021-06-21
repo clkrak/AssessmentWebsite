@@ -1,0 +1,27 @@
+﻿Pseudocode for info.html
+UPDATE
+
+Create page head (top).
+        Set page title to “Info”.
+        Set page style.
+        Reference CSS file.
+
+
+Create page body (content).
+        Create header.
+                Display: “Welcome to the Information Page!”
+                          “Have a look around!”
+                
+
+
+        Create navigation menu.
+                Show navigation menu with site navigation options.
+                Define margins of menu.
+
+
+        Create main content section.
+                Populate with flight tracking link showing active flights.
+
+
+        Create footer section.
+                Assign contact info.

@@ -1,5 +1,5 @@
 ﻿Pseudocode for rulespart102.html
-
+UPDATE
 
 Create page head (top).
         Set page title to “Rules Part 102”.

@@ -1,5 +1,5 @@
 ﻿Pseudocode for index.html
-
+UPDATE
 
 Create page head (top).
         Set page title to “Home”.
