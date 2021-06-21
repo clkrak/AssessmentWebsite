@@ -45,42 +45,38 @@ CEO Myspace 2004-2008
 
 __**List of Stakeholders**__
 
-**1.**
-Stakeholder name: Jerry Garcia
-Title: CFO		Role: Sponser
-
-Power (H/L): H	Interest (H/L): L
-
-Requirements: Finish advertisement rollout by 6/06/2021
-Communication: E-mail
-
-**2.**
-Stakeholder name: Keanu Reeves
-Title: NEO		Role: The One
-
-Power (H/L): >9k	Interest (H/L): >9k
-
-Requirements: Landline Telephone 
-Communication: Landline Telephone
-
+**1.**  
+Stakeholder name: Jerry Garcia  
+Title: CFO		Role: Sponser  
+Power (H/L): H	Interest (H/L): L  
+Requirements: Finish advertisement rollout by 6/06/2021  
+Communication: E-mail  
+  
+**2.**  
+Stakeholder name: Keanu Reeves  
+Title: NEO  
+Role: The One  
+Power (H/L): >9k  
+Interest (H/L): >9k  
+Requirements: Landline Telephone  
+Communication: Landline Telephone  
+  
 **3.**
-Stakeholder name: Christopher Walkin
-Title: Angel Investor	Role: Angel
-
-Power (H/L): H	Interest (H/L): H
-
-Requirements: The drones must be happy.
-Communication: In-person.
-
-**4.**
-Stakeholder name: Harrison Ford
-Title: Interested Party		Role: Pilot
-
-Power (H/L): L		Interest (H/L): L
-
-Requirements: 5% Revenue Increase
-Communication: Helicopter
-
+Stakeholder name: Christopher Walkin  
+Title: Angel  
+Investor Role: Angel  
+Power (H/L): H	Interest (H/L): H  
+Requirements: The drones must be happy.  
+Communication: In-person.  
+  
+**4.**  
+Stakeholder name: Harrison Ford  
+Title: Interested Party		Role: Pilot  
+Power (H/L): L  
+Interest (H/L): L  
+Requirements: 5% Revenue Increase  
+Communication: Helicopter  
+  
 __**Risk Assessment**__  
 Possible risks and constraints.
 There is the inevitable possiblity of project members
